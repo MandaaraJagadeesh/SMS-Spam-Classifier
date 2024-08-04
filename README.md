@@ -1,6 +1,4 @@
-Here's a README file for your SMS Spam Classifier project, which includes details about the program, installation, usage, and more:
 
----
 
 # SMS Spam Classifier
 
