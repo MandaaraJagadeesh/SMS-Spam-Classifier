@@ -8,12 +8,13 @@ Features:
   Prediction: Classifies new SMS messages as spam or not spam with probability estimates.
   Streamlit App: Provides an interactive web interface to input SMS messages and get predictions.
 
-Installation:
-  Prerequisites
+Installation Prerequisites:
+
   Python 3.x
   pip
 
 Project Structure:
+
   app.py: The Streamlit application script.
   train_model.py: Script for training and saving the machine learning model.
   spam.csv: The dataset used for training the model (should be in the project directory).
