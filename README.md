@@ -30,16 +30,4 @@ A machine learning application for classifying SMS messages as spam or not spam 
 - `sms_spam_classifier.pkl`: Saved model file (created after training).
 - `requirements.txt`: List of required Python packages.
 
-## Model Performance
 
-The model's performance metrics, such as accuracy, precision, recall, and F1-score, will be displayed in the console after training.
-
-
-
-
-- The dataset used in this project is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection).
-- Streamlit documentation and community for making interactive web apps easy.
-
----
-
-Feel free to adjust any sections to better fit your specific project needs.
